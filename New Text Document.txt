@@ -1,0 +1,5 @@
+wap to count no of words lines characters inclu/excluding spaces.
+
+wap to count the frequency of the word in the file
+
+merge content of two files in the third file

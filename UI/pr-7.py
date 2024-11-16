@@ -1,0 +1,12 @@
+from tkinter import *
+root = Tk()
+root.maxsize(555, 555)
+root.minsize(555, 555)
+w = Label(root, text="Red Sun", bg="Saffron", fg="white")
+w.pack(ipadx=100)
+w = Label(root, text="Green Grass", bg="green", fg="black")
+w.pack(ipadx=90)
+#w.pack(ipady=10)
+w = Label(root, text="Blue Sky", bg="blue", fg="white")
+w.pack(ipadx=100)
+mainloop()

@@ -1,0 +1,7 @@
+print({} or [])
+print({} and [])
+print({4,5} or [])
+print({4,5} and [])
+print({8,5} and [5])
+print({8,5} or [5,6])
+print(~~5)
